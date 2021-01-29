@@ -1,0 +1,45 @@
+
+
+body {
+    background-color: rgb(224, 247, 224) 	 ;
+    background-image: "home.jfif";	
+  }
+
+
+#title1 {
+  padding-top: 30px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family:  Hand, cursive	;
+  font-size: 40px;
+}
+
+.card-body{
+  background-color: rgb(255, 249, 254);
+
+}
+.card-deck{
+  
+  margin: 20px;
+}
+
+.card{
+  background-color: rgb(255, 249, 254);
+  border-style: solid;
+  border-width: 1px;
+  padding: 20px 20px 20px 20px;
+}
+
+#contact{
+  background-color: rgb(255, 182, 182);
+  width: auto;
+  height: 300px;
+  padding-left: 300px;
+  padding-top: 50px;
+
+}
+
+#icons{
+  padding-left: 50px;
+}
